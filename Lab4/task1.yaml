@@ -1,0 +1,40 @@
+day_id: 0
+group_name: P3108
+date: Monday, 3 Dec 2024 UTC
+schedule: 
+- id: 1
+  title: Линейная алгебра
+  class_format: Очно
+  type: 
+    id: 0
+    title: Лекция
+  campus: 
+    id: 0
+    address: Ломоносова д. 9 лит. Б
+  time: 
+    period: 1
+    from_time: 10:00
+    to_time: 11:30
+  auditory: 
+    id: 311
+    name: ауд. 311
+  teacher: 
+    name: Танченко Юлия Валерьевна
+- id: 2
+  title: Математический анализ
+  class_format: Очно
+  type: 
+    id: 0
+    title: Лекция
+  campus: 
+    id: 0
+    address: Ломоносова д. 9 лит. Б
+  time: 
+    period: 2
+    from_time: 13:30
+    to_time: 15:00
+  auditory: 
+    id: 4307
+    name: ауд. 4307
+  teacher: 
+    name: Богачев В.
